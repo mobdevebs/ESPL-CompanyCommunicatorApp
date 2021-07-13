@@ -54,7 +54,7 @@
       }
     },
     "UserAppExternalId": {
-      "defaultValue": "cb2e443b-21b1-4e55-97cc-37b62d76aadb",
+      "defaultValue": "10dcb8f2-06db-4576-8930-6e7c080f610e",
       "minLength": 1,
       "type": "String",
       "metadata": {
@@ -171,7 +171,7 @@
       "metadata": {
         "description": "The URL to the GitHub repository to deploy."
       },
-      "defaultValue": "https://github.com/mobdevebs/CompanyCommunicatorApp.git"
+      "defaultValue": "https://github.com/mobdevebs/ESPL-CompanyCommunicatorApp.git"
     },
     "gitBranch": {
       "type": "string",
